@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('guild'){
       steps{
-        echo 'msg rfrom saroj'
+        echo 'msg rfrom ram'
       }
     }
   }
